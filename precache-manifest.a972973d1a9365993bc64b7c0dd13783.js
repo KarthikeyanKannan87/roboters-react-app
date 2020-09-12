@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a03ce28542a52159c43eaaea8cd50039",
+    "revision": "828884b63c258baa239e0cf455fc008a",
     "url": "/roboters-react-app/index.html"
   },
   {
-    "revision": "ee2e272fcc6d55378b68",
-    "url": "/roboters-react-app/static/css/main.944f8911.chunk.css"
+    "revision": "327ed2a8ec89df051f9f",
+    "url": "/roboters-react-app/static/css/main.c177ae3a.chunk.css"
   },
   {
     "revision": "5329ff387f657b6c2e5f",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roboters-react-app/static/js/2.7b96187e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee2e272fcc6d55378b68",
-    "url": "/roboters-react-app/static/js/main.eb961ccb.chunk.js"
+    "revision": "327ed2a8ec89df051f9f",
+    "url": "/roboters-react-app/static/js/main.aca306de.chunk.js"
   },
   {
     "revision": "374e810f15e1e1f1b8c8",
     "url": "/roboters-react-app/static/js/runtime-main.c7dfa105.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/roboters-react-app/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/roboters-react-app/static/media/logo.ee7cd8ed.svg"
   }
 ]);

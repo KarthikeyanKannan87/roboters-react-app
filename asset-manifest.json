@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/roboters-react-app/static/css/main.944f8911.chunk.css",
-    "main.js": "/roboters-react-app/static/js/main.eb961ccb.chunk.js",
-    "main.js.map": "/roboters-react-app/static/js/main.eb961ccb.chunk.js.map",
+    "main.css": "/roboters-react-app/static/css/main.c177ae3a.chunk.css",
+    "main.js": "/roboters-react-app/static/js/main.aca306de.chunk.js",
+    "main.js.map": "/roboters-react-app/static/js/main.aca306de.chunk.js.map",
     "runtime-main.js": "/roboters-react-app/static/js/runtime-main.c7dfa105.js",
     "runtime-main.js.map": "/roboters-react-app/static/js/runtime-main.c7dfa105.js.map",
     "static/js/2.7b96187e.chunk.js": "/roboters-react-app/static/js/2.7b96187e.chunk.js",
     "static/js/2.7b96187e.chunk.js.map": "/roboters-react-app/static/js/2.7b96187e.chunk.js.map",
     "index.html": "/roboters-react-app/index.html",
-    "precache-manifest.b84853587871de575e28f5542589c026.js": "/roboters-react-app/precache-manifest.b84853587871de575e28f5542589c026.js",
+    "precache-manifest.a972973d1a9365993bc64b7c0dd13783.js": "/roboters-react-app/precache-manifest.a972973d1a9365993bc64b7c0dd13783.js",
     "service-worker.js": "/roboters-react-app/service-worker.js",
-    "static/css/main.944f8911.chunk.css.map": "/roboters-react-app/static/css/main.944f8911.chunk.css.map",
+    "static/css/main.c177ae3a.chunk.css.map": "/roboters-react-app/static/css/main.c177ae3a.chunk.css.map",
     "static/js/2.7b96187e.chunk.js.LICENSE.txt": "/roboters-react-app/static/js/2.7b96187e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/roboters-react-app/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/roboters-react-app/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c7dfa105.js",
     "static/js/2.7b96187e.chunk.js",
-    "static/css/main.944f8911.chunk.css",
-    "static/js/main.eb961ccb.chunk.js"
+    "static/css/main.c177ae3a.chunk.css",
+    "static/js/main.aca306de.chunk.js"
   ]
 }
